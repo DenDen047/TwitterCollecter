@@ -1,0 +1,7 @@
+*APIkey.txt
+./CollectedData/*
+*.jpg
+*.gif
+*.mp4
+*.pyc
+.DS_Store

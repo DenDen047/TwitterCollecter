@@ -1,0 +1,8 @@
+{
+    "ApiKey": "APIkey.txt",
+    "mp4_place": "~/Downloads/CollectedData/mp4/",
+    "jpg_place": "~/Downloads/CollectedData/images/",
+    "gif_place": "~/Downloads/CollectedData/gif/",
+    "error_place": "~/Downloads/CollectedData/error/",
+    "trash_place": "~/Downloads/CollectedData/trash/"
+}
